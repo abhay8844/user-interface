@@ -1,7 +1,7 @@
 # Hi there, I'm Abhay Salimath ! 👋
 
 <p align="center">
-  <img src=""C:\Users\abhay\OneDrive\Desktop\giphy.gif"" alt="Banner Image">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fbanner-ts3&psig=AOvVaw0UU8te2ffnIVBJ8u9uoSpo&ust=1760810830832000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDrvdLpq5ADFQAAAAAdAAAAABA7" alt="Banner Image">
 </p>
 
 ## 👨‍💻 About Me
@@ -10,7 +10,7 @@ I am a final-year engineering student from Belagavi, passionate about machine le
 
 - 🔭 I’m currently working on a mini-project using Jupyter Notebook.
 - 🌱 I’m currently learning advanced Python and data structures.
-- 📫 How to reach me: [LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:YOUR_EMAIL)
+- 📫 How to reach me: [LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:abhayvsalimath880055@gmail.com)
 
 ---
 
@@ -18,7 +18,7 @@ I am a final-year engineering student from Belagavi, passionate about machine le
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,jupyter,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=python,html" />
   </a>
 </p>
 
